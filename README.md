@@ -75,3 +75,8 @@ If not already present in your environment, you can find similar datasets on [Ka
 2. Install required libraries:
    ```bash
    pip install pandas numpy matplotlib seaborn
+
+   Open Student_Performance_Analysis.ipynb in Jupyter Notebook.
+
+3. Ensure StudentsPerformance.csv is in the same directory.
+4.Run each cell sequentially to reproduce the analysis and visualizations
