@@ -78,5 +78,5 @@ If not already present in your environment, you can find similar datasets on [Ka
 
    Open Student_Performance_Analysis.ipynb in Jupyter Notebook.
 
-3. Ensure StudentsPerformance.csv is in the same directory.
+3. Ensure Wamuyu Wachira - Week 7.ipynb is in the same directory.
 4.Run each cell sequentially to reproduce the analysis and visualizations
